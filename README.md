@@ -8,7 +8,7 @@ Repositório com as bases no conteúdo da disciplina "DevOps" do curso de MBA FU
 | Laboratório       | Descrição |
 |-------------------|-----------|
 | [Cloud9](https://github.com/fiapdevops/mba_fullstack/tree/main/cloud9) | Preparação da IDE como plataform de lançamento para os próximos exemplos; |
-| [Pipelines](https://github.com/fiapdevops/mba_fullstack/tree/main/pipelines) | Laboratório para testes de Pipelines de desenvolvimento utilizando Jenkins CI; |
+| [Pipelines](https://github.com/fiapdevops/pipelines) | Laboratório para testes de Pipelines de desenvolvimento utilizando Jenkins CI; |
 
 ---
 
