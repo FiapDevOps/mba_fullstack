@@ -11,7 +11,8 @@ Repositório com as bases no conteúdo da disciplina "DevOps" do curso de MBA FU
 | [Pipelines](https://github.com/fiapdevops/mba_fullstack/tree/main/pipelines) | Laboratório para testes de Pipelines de desenvolvimento utilizando Jenkins CI; |
 
 ---
-##### Fiap - MBA FULL STACK DEVELOPMENT
+
+##### Fiap - MBA Full Stack Developer
 profhelder.pereira@fiap.com.br
 
 **Free Software, Hell Yeah!**
